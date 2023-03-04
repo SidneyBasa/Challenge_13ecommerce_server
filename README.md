@@ -1,5 +1,6 @@
 # Challenge_13ecommerce_server
 A server that contains a server that includes the database for an ecommerce website
+![screenshot_ecommerce_server](https://user-images.githubusercontent.com/67940686/222881826-eae5f85e-694c-462b-95e3-ad98ad8b5469.jpg)
 
 ## Table of contents
 - [Installation](#installation)
